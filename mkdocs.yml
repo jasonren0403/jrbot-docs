@@ -57,7 +57,7 @@ extra:
     - icon: fontawesome/brands/github-alt
       link: https://github.com/jasonren0403
     - icon: fontawesome/brands/qq
-      link: http://wpa.qq.com/msgrd?v=3&uin=727847763&site=qq&menu=yes
+      link: https://wpa.qq.com/msgrd?v=3&uin=727847763&site=qq&menu=yes
     - icon: fontawesome/brands/discord
       link: https://discord.gg/s33UBWEPxb
       name: Join to my discussion(and try using my discord bot<developing state>!)
